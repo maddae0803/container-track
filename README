@@ -1,7 +1,7 @@
 Max Addae                                            
-                                              NYC Ports and Logistics Hackathon
-                                                      January 2017
-                                                      ContainerTrack
+                                     NYC Ports and Logistics Hackathon
+                                               January 2017
+                                               ContainerTrack
 
 
 created a user-friendly web and mobile (Android) interface to help build a stronger connection between shipping lines and their clients. Whereas many clients would normally have to rely on unreliable third party systems and/or calling shipping companies for updates on a container's customs clearance status, the website gives customers constant access to the status of a container, and would be notified through email when their containers are ready to be picked up. Through the Android app, which retrieves data from the website through the Kinvey backend as a service, truck drivers would able to see which of their containers are ready to be picked up, and can schedule an appointment time for pick up, avoiding trucks congesting the ports and, thus, allowing port space to be used more efficiently.
